@@ -1,5 +1,5 @@
 # action.yml
-name: 'Build LaTeX document'
+name: 'Build LaTeX documents matching a Regex pattern'
 description: 'Greet someone and record the time'
 inputs:
   build-pattern:  # id of input
