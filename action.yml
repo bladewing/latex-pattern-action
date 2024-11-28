@@ -1,6 +1,9 @@
 # action.yml
 name: 'Build LaTeX documents matching a Regex pattern'
 description: 'Greet someone and record the time'
+branding:
+  icon: 'file-text'
+  color: 'red'
 inputs:
   build-pattern:  # id of input
     description: 'Pattern to build LaTeX files'
